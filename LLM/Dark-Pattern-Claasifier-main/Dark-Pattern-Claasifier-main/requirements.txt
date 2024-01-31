@@ -1,0 +1,9 @@
+flask
+joblib
+scikit-learn
+streamlit
+google-ai-generativelanguage==0.4.0
+google-generativeai==0.3.1
+langchain-core
+langchain-experimental
+langchain-google-genai
